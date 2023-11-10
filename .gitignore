@@ -1,0 +1,4 @@
+data/*
+.ipynb_*
+tmp/*
+spark-warehouse/*
